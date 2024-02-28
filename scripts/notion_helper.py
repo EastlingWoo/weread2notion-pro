@@ -30,7 +30,7 @@ BOOKMARK_ICON_URL = "https://www.notion.so/icons/bookmark_gray.svg"
 
 class NotionHelper:
     database_name_dict = {
-        "BOOK_DATABASE_NAME": "Library",
+        "BOOK_DATABASE_NAME": "书架",
         "REVIEW_DATABASE_NAME": "笔记",
         "BOOKMARK_DATABASE_NAME": "划线",
         "DAY_DATABASE_NAME": "日",
